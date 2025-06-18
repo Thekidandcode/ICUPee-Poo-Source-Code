@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "ermwhattheskib:pee_wood_leaves"
+  ],
+  "result": {
+    "id": "ermwhattheskib:pee_essence_dust",
+    "count": 1
+  }
+}

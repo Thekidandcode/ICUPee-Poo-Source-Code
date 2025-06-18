@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "ermwhattheskib:block/poodim_portal_ew"
+    },
+    "axis=x": {
+      "model": "ermwhattheskib:block/poodim_portal_ns"
+    }
+  }
+}

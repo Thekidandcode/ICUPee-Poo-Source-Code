@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "ermwhattheskib:poo_eseence_dust"
+  },
+  "result": {
+    "id": "ermwhattheskib:poo_eseence_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ermwhattheskib:block/peegrass",
+    "up": "ermwhattheskib:block/peegrass",
+    "north": "ermwhattheskib:block/peegrass",
+    "east": "ermwhattheskib:block/peegrass",
+    "south": "ermwhattheskib:block/peegrass",
+    "west": "ermwhattheskib:block/peegrass",
+    "particle": "ermwhattheskib:block/peegrass"
+  },
+  "render_type": "solid"
+}

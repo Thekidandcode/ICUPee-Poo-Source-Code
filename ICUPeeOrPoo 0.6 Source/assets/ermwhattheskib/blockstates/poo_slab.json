@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ermwhattheskib:block/poo_slab"
+    },
+    "type=top": {
+      "model": "ermwhattheskib:block/poo_slab_top"
+    },
+    "type=double": {
+      "model": "ermwhattheskib:block/poo_slab_full"
+    }
+  }
+}

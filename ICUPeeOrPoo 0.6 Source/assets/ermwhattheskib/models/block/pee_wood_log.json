@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ermwhattheskib:block/pee_wood_log_top",
+    "up": "ermwhattheskib:block/pee_wood_log_top",
+    "north": "ermwhattheskib:block/pee_wood_log_side",
+    "east": "ermwhattheskib:block/pee_wood_log_side",
+    "south": "ermwhattheskib:block/pee_wood_log_side",
+    "west": "ermwhattheskib:block/pee_wood_log_side",
+    "particle": "ermwhattheskib:block/pee_wood_log_top"
+  },
+  "render_type": "solid"
+}

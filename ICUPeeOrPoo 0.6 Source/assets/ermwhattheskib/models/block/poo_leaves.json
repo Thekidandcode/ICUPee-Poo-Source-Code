@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ermwhattheskib:block/poo_leaves",
+    "particle": "ermwhattheskib:block/poo_leaves"
+  }
+}

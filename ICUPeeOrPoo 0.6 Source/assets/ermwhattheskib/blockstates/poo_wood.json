@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "ermwhattheskib:block/poo_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "ermwhattheskib:block/poo_wood"
+    },
+    "axis=z": {
+      "model": "ermwhattheskib:block/poo_wood",
+      "x": 90
+    }
+  }
+}

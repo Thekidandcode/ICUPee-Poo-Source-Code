@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aa",
+    "ab",
+    " b"
+  ],
+  "key": {
+    "a": "ermwhattheskib:poo_eseence_dust",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "ermwhattheskib:poo_eseence_axe",
+    "count": 1
+  }
+}

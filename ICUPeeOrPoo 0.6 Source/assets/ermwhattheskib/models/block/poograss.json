@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ermwhattheskib:block/poo_grass",
+    "up": "ermwhattheskib:block/poo_grass",
+    "north": "ermwhattheskib:block/poo_grass",
+    "east": "ermwhattheskib:block/poo_grass",
+    "south": "ermwhattheskib:block/poo_grass",
+    "west": "ermwhattheskib:block/poo_grass",
+    "particle": "ermwhattheskib:block/poo_grass"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "category": "redstone",
+  "ingredients": [
+    "ermwhattheskib:poo_planks"
+  ],
+  "result": {
+    "id": "ermwhattheskib:poo_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": "ermwhattheskib:pee_wood_log"
+  },
+  "result": {
+    "id": "ermwhattheskib:pee_wood_wood",
+    "count": 3
+  }
+}

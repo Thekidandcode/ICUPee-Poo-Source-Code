@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ermwhattheskib:poo_eseence_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "ermwhattheskib:poo_eseence_armor"
+      }
+    ]
+  }
+}

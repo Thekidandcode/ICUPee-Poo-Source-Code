@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aa",
+    " b",
+    " b"
+  ],
+  "key": {
+    "a": "ermwhattheskib:pee_essence_dust",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "ermwhattheskib:pee_essence_hoe",
+    "count": 1
+  }
+}

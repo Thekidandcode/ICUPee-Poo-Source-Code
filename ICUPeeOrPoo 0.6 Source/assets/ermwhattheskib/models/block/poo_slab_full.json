@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "ermwhattheskib:block/poo_planks",
+    "bottom": "ermwhattheskib:block/poo_planks",
+    "top": "ermwhattheskib:block/poo_planks",
+    "side": "ermwhattheskib:block/poo_planks"
+  },
+  "render_type": "solid"
+}

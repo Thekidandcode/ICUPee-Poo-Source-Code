@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ermwhattheskib:block/pee_wood_log_side",
+    "particle": "ermwhattheskib:block/pee_wood_log_side"
+  },
+  "render_type": "solid"
+}

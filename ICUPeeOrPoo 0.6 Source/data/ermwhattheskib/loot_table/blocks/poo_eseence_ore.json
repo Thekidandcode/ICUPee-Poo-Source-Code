@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "ermwhattheskib:blocks/poo_eseence_ore",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "ermwhattheskib:poo_eseence_dust",
+          "functions": [
+            {
+              "count": 5,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

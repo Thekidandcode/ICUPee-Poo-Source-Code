@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": "ermwhattheskib:poo_eseence_dust"
+  },
+  "result": {
+    "id": "ermwhattheskib:poo_eseence_armor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ermwhattheskib:block/pee_wood_slab"
+    },
+    "type=top": {
+      "model": "ermwhattheskib:block/pee_wood_slab_top"
+    },
+    "type=double": {
+      "model": "ermwhattheskib:block/pee_wood_slab_full"
+    }
+  }
+}

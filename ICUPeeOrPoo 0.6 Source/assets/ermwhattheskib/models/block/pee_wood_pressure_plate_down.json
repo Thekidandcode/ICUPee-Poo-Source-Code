@@ -1,0 +1,8 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "particle": "ermwhattheskib:block/pee_wood_planks",
+    "texture": "ermwhattheskib:block/pee_wood_planks"
+  },
+  "render_type": "solid"
+}
